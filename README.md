@@ -60,19 +60,6 @@ The system is operational and producing stable plasma. I'm seeing good vacuum in
 - **Epoxy outgassing** — Use 24-hour cure epoxy for vacuum applications; fast-cure epoxies outgas and contaminate the chamber.
 - **Never overtighten** — The glass cylinder will crack. Finger-tight on the flange nuts is sufficient.
 
-## Next Steps
-
-- Experimenting with different grid geometries
-- Improving vacuum depth
-- Eventually: deuterium fuel for actual fusion reactions (with proper radiation monitoring)
-
-## Repository Contents
-
-```
-/docs       - Build documentation and schematics
-/images     - Build progress photos
-/resources  - Component sourcing links
-```
 
 ---
 
